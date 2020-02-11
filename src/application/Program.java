@@ -39,6 +39,7 @@ public class Program {
 		double dep = sc.nextDouble();
 		account.deposito(dep);
 		System.out.println(account);
+		System.out.println("Teste");
 		
 		System.out.println("Valor do saque: ");
 		double saque = sc.nextDouble();
